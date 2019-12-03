@@ -6,6 +6,6 @@ This is UI based application which takes a maze image as an input. Then with the
 The image of the maze can be hand-drawn or digital.
 
 ## Dependencies
-```* tkinter
+``` * tkinter
 * cv2
-* pillow```
+* pillow ```
