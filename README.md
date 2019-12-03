@@ -1,6 +1,7 @@
 # Maze-solver
 
-# Dependencies
-tkinter
-cv2
-pillow
+## Dependencies
+---
+* tkinter
+* cv2
+* pillow
