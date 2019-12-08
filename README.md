@@ -6,8 +6,7 @@ This is UI based application which takes a maze image as an input. Then with the
 The image of the maze can be hand-drawn or digital.
 
 ## Screenshot
-![Maze solver screenshot](https://raw.githubusercontent.com/praneetmehta11/maze-solver/master/screenshot01.gif)
-![Maze solver screenshot](https://raw.githubusercontent.com/praneetmehta11/maze-solver/master/screenshot02.gif)
+![Maze solver screenshot](screenshot01.gif)
 
 ## Dependencies
 ``` 
