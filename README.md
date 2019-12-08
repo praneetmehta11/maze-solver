@@ -14,7 +14,7 @@ The image of the maze can be hand-drawn or digital.
 * cv2
 * pillow 
 ```
-### To run this application
+## To run this application
 ```
 py mazeSolver.py
 ```
